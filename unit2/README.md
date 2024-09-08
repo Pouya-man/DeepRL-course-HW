@@ -1,5 +1,6 @@
 # Questions #
 In this exercise, we want to use importance sampling to calculate the probability that a random variable with normal distribution has a value greater than 5.
+
 ![image](https://github.com/user-attachments/assets/fdd6e02e-24c1-4490-95d0-459c880176ea)
 
 A) Using the indicator function, we can rewrite the desired probability in the form of mathematical expectation:
