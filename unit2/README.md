@@ -4,8 +4,10 @@ In this exercise, we will review one of the problems of vector sampling methods.
 ## Answer ##
 
 Steps to do this:
+
   * The sample generation means _X ̅_n for n =1,…,10^4_ for both distributions.
   * We plot the sample means against _n_ for the normal and Cauchy distributions.
+
 The major difference between the normal (Gaussian) distribution and the Cauchy distribution lies in the behavior of their tails. The Cauchy distribution has much more oscillating tails compared to the normal distribution, meaning extreme values ​​are more likely. As a result, the behavior of the sample mean for the Cauchy distribution may show greater variability and fluctuations compared to the sample mean of the normal distribution.
 
 <img src="https://github.com/user-attachments/assets/f0a47fa8-258f-4e9d-9324-3f483a190d7c" width="500" height="400" />
