@@ -8,7 +8,7 @@ Steps to do this:
   * We plot the sample means against _n_ for the normal and Cauchy distributions.
 The major difference between the normal (Gaussian) distribution and the Cauchy distribution lies in the behavior of their tails. The Cauchy distribution has much more oscillating tails compared to the normal distribution, meaning extreme values ​​are more likely. As a result, the behavior of the sample mean for the Cauchy distribution may show greater variability and fluctuations compared to the sample mean of the normal distribution.
 
-<img src="https://github.com/user-attachments/assets/f0a47fa8-258f-4e9d-9324-3f483a190d7c" width="500" height="500" />
+<img src="https://github.com/user-attachments/assets/f0a47fa8-258f-4e9d-9324-3f483a190d7c" width="600" height="500" />
 
 
 As can be seen in the results section, the normal distribution has a more stable and stable behavior than the Cauchy distribution. Noisy behavior like Cauchy distribution can also be explained using the explanations mentioned in the previous paragraph.
