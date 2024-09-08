@@ -1,5 +1,5 @@
 # Question #
-Implement value iteration for the **gambler’s problem** and solve it for ph = 0.25 and ph = 0.55. In programming, you may ﬁnd it convenient to introduce two dummy states corresponding to termination with capital of 0 and 100, giving them values of 0 and 1 respectively. Show your results graphically, as in Figure 4.3. Are your results stable as θ→0?
+Implement value iteration for the **gambler’s problem** and solve it for ph = 0.25 and ph = 0.55. In programming, you may ﬁnd it convenient to introduce two dummy states corresponding to termination with capital of 0 and 100, giving them values of 0 and 1 respectively. Show your results graphically. Are your results stable as θ→0?
 
 
 ## gambler’s problem ##
