@@ -2,7 +2,7 @@
 In this exercise, we want to use importance sampling to calculate the probability that a random variable with normal distribution has a value greater than 5.
 
 ![image]()
-<img src="https://github.com/user-attachments/assets/c1f32239-0c94-48ec-9e6a-3a0b74a1b2b7" width="300" height="200" />
+<img src="https://github.com/user-attachments/assets/c1f32239-0c94-48ec-9e6a-3a0b74a1b2b7" width="400" height="150" />
 We know that the probability equals.
 
 ![image](https://github.com/user-attachments/assets/770e261e-5f7a-4707-adcb-7bc9d62fd246)
